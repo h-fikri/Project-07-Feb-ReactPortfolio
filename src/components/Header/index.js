@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
+import "./index.css";
 
 export default class index extends Component {
   state = {
@@ -33,7 +34,7 @@ export default class index extends Component {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className={`collapse navbar-collapse ${show}`}>
-          <div className="navbar-nav">
+          <div className="navbar-nav border border-warning">
             <li className="nav-item">
               <NavLink
                 to="/"
