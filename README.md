@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Link to the deployed app
 
-In the project directory, you can run:
+Github Repository: https://github.com/h-fikri/Project-07-Feb-ReactPortfolio
+Deployment Link: https://husainreactportfolio.netlify.app/
 
 ### `npm start`
 
