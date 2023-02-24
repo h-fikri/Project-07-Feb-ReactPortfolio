@@ -12,7 +12,7 @@ export default function index() {
               target="_blank"
               rel="noreferrer"
             >
-              <div className="imgtop">
+              <div className="imgtop d-flex justify-content-center">
                 <img
                   className="card-img-top img-fluid"
                   src="https://logo-download.com/wp-content/data/images/svg/Bootstrap-logo.svg"
