@@ -12,11 +12,13 @@ export default function index() {
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                className="card-img-top img-fluid"
-                src="https://getbootstrap.com/docs/5.3/assets/img/bootstrap-icons.png"
-                alt=""
-              />
+              <div className="imgtop">
+                <img
+                  className="card-img-top img-fluid"
+                  src="https://logo-download.com/wp-content/data/images/svg/Bootstrap-logo.svg"
+                  alt=""
+                />
+              </div>
             </a>
             <div className="card-body">
               <h5 className="card-title">Bootstrap Portfolio</h5>
@@ -41,11 +43,13 @@ export default function index() {
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                className="card-img-top img-fluid"
-                src="https://www.jqueryscript.net/images/Creating-A-Nice-Weather-App-with-jQuery-Canvas.jpg"
-                alt=""
-              />
+              <div className="imgtop">
+                <img
+                  className="card-img-top img-fluid"
+                  src="https://www.jqueryscript.net/images/Creating-A-Nice-Weather-App-with-jQuery-Canvas.jpg"
+                  alt=""
+                />
+              </div>
             </a>
             <div className="card-body">
               <h5 className="card-title">Weather Forecast</h5>
@@ -69,11 +73,13 @@ export default function index() {
               target="_blank"
               rel="noreferrer"
             >
-              <img
-                className="card-img-top img-fluid"
-                src="https://www.jsweet.org/wp-content/uploads/2016/04/react-logo.png"
-                alt=""
-              />
+              <div className="imgtop">
+                <img
+                  className="card-img-top img-fluid"
+                  src="https://www.jsweet.org/wp-content/uploads/2016/04/react-logo.png"
+                  alt=""
+                />
+              </div>
             </a>
             <div className="card-body">
               <h5 className="card-title">React Portfolio</h5>
