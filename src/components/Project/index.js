@@ -4,7 +4,7 @@ import "./index.css";
 export default function index() {
   return (
     <>
-      <div className="container mb-5">
+      <div className="container">
         <div className="card-group">
           <div className="card">
             <a
